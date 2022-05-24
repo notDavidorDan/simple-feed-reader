@@ -44,4 +44,3 @@ if-no-files-found: # optional, default is warn
 Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
 
     retention-days: # optional
-
